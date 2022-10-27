@@ -6,3 +6,9 @@ Please, start here.
 <p>
 This notebook is my attempt to parse information about Top 100 IMDB movies and cluster them by their synopses. Using Natural Language Toolkit (NLTK) Library and TfidVectorizer for Natural Language Processing.
  </p>
+
+### [Sign Language Recognizer](https://github.com/AloshinYaroslav/Portfolio/tree/main/SignLanguageRecognizer)
+
+<p>
+Notebook describe how the deep learning and computer vision could work in real life using MNIST dataset available from keras. Neural Network was created using convolution layers and max pooling operations. 
+ </p>
